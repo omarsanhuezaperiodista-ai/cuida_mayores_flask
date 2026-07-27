@@ -1,6 +1,6 @@
 <div align="center">
 
-# CUIDA A TUS MAYORES  
+# CUIDA A TUS 
 ## Sistema web para la gestión de perfiles de cuidadores
 
 **Asignatura:** Taller de Desarrollo Web y Móvil — APTC106  
